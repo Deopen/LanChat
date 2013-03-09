@@ -34,5 +34,9 @@ http://iharder.net/base64
 NOTE [ IMPORTANT ] :
 This Program requairs MySql Server and Client and JDBC driver
 
+NOTE [ IMPORTANT ] :
+This Program Requairs some icon ans sounds , To download whole package , please visit :
+https://code.google.com/p/deopen-lan-chat/
+
 ====================================================================================
 
