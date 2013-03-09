@@ -2,7 +2,8 @@
 Welcome to the LanChat
 
 Chat System for Conference,GroupMessage,Offline_Message,Shared WhiteBoard,
-With Star Topology,in local network , With Prefect Persian Documents (100 Pages) ,
+With Star Topology,in local network , 
+With Perefect Persian Documents (100 Pages) ,
 Most Of Messages Are Encrypted .
 
 I'm not good in english , but this project contains good readme and documents in 
