@@ -31,7 +31,7 @@ For this application ,please download Base64.java from this URL :
 http://iharder.net/base64
 
 NOTE [ IMPORTANT ] :
-This Program requairs MySql Server and Client and JDBC deriver
+This Program requairs MySql Server and Client and JDBC driver
 
 ====================================================================================
 
