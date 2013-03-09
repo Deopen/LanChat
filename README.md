@@ -26,5 +26,12 @@ This will be a great motivation for me to develop LanChat further.
 This software contains Base64 Java-class written by Robert Harder <rob@iharder.net>  
 and also Modified Version of  "TicTacToeClient.java" Written by Deitel&Deitel.
 
+NOTE [ IMPORTANT ] :
+For this application ,please download Base64.java from this URL :
+http://iharder.net/base64
+
+NOTE [ IMPORTANT ] :
+This Program requairs MySql Server and Client and JDBC deriver
+
 ====================================================================================
 
