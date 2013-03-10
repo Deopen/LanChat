@@ -37,6 +37,8 @@ This Program requairs MySql Server and Client and JDBC driver
 NOTE [ IMPORTANT ] :
 This Program Requairs some icon and sounds .
 To download whole package , please visit :
+https://bitbucket.org/deopen/lanchat/
+or 
 https://code.google.com/p/deopen-lan-chat/
 
 ====================================================================================
